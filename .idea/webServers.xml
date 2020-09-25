@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed50d91a-e438-49a3-81a1-81c326aee29b" name="xiaole" url="http://xiaole.rlftkeji.cn">
+        <fileTransfer host="xiaole.rlftkeji.cn" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ba44f1c3-b03a-42c8-a9d8-8c3f64adde0c" name="逢春制药" url="http://fengcun.westst.cn">
+        <fileTransfer host="fengcun.westst.cn" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d0e233d-04f8-4b48-acf7-9c8b59432a4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/admin/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/controller/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/admin/view/dashboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/view/dashboard/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/admin/view/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/view/news/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/backend/company_products.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/backend/company_products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/backend/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/backend/news.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/cache/cb/78ef4a9130f39208ff10858ddd8377.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/cache/cb/78ef4a9130f39208ff10858ddd8377.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090416add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090416banner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090416banner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090416edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090416news.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090416news.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090417edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090417partner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090709edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090710add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090713add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090713review.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090714add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090714edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090714news.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090714news.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090716review.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090717edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090717index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090909customform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090909manufacture_order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090910add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090910manufacture_order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090910manufacture_order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020090911news.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091010company_news.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091010company_products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091010engineer_list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091010partner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091010student_case.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091014edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091014partner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091014partner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091014user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091015manufacture_order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091015manufacture_order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091015partner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091015partner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091016edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091016index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091016manufacture_order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091016partner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091110edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091110order_evaluate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091114manufacture_order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/editpage_backup/202009/2020091114manufacture_order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/14.log" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/log/202009/14.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/1599450598-07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/1599467109-07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/1599623675-09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/1599720852-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/log/202009/1599729809-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/0b787167aecf5fdc8ab7de1edd874913.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/11a948f4e7f6755dc1bec548dc79d4bd.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/145c11fbb09769a5b7f872fca3147af3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/156ec224879d96aaea3204315501a51d.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/5a94ae93d186a69d74eb01e86ea64ab1.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/5a94ae93d186a69d74eb01e86ea64ab1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/7484f197f6a02ece9bd22850c9b93f84.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/7ba4c9fd5cd0d3d1a99ae335ccd569e7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/81556c4a5175c4110553850168583bc0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/89e1a1f61ab566f774ef368329c8a9d3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/98fd8592d20213f6766e0e12df9e68da.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/b1cc195a7cb96f1425745b8447669e86.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/c11fe13916cac7227db1c63559d51dbd.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/c11fe13916cac7227db1c63559d51dbd.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/c8a1b6cf42dc07b91c1f4f119b08ec8e.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/d04209dacb1c8e22bdb9123c4df134f9.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/dae7a7735e50e4e32aa5f40f781b9e9a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/e14cfc25e337f6cb5c98bb9421b11121.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/karsonzhang/fastadmin-addons" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/pinyin" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/wechat" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/socialite" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-installer" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/endroid/qr-code" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1h2T2DJ9x8xvvBekH1BOpCfwWEM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d0e233d-04f8-4b48-acf7-9c8b59432a4e" name="Default Changelist" comment="" />
+      <created>1599207977584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599207977584</updated>
+      <workItem from="1599207978881" duration="3224000" />
+      <workItem from="1599440287429" duration="15436000" />
+      <workItem from="1599466513814" duration="6428000" />
+      <workItem from="1599527686613" duration="5281000" />
+      <workItem from="1599612662399" duration="9031000" />
+      <workItem from="1599699284640" duration="22263000" />
+      <workItem from="1599786072745" duration="9539000" />
+      <workItem from="1599802271730" duration="334000" />
+      <workItem from="1599802619697" duration="309000" />
+      <workItem from="1599804092870" duration="9320000" />
+      <workItem from="1600045493217" duration="9262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
